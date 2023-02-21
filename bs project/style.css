@@ -1,0 +1,129 @@
+.navbar
+{
+    
+    background: transparent;
+    backdrop-filter: blur(10px);
+}
+
+#navbar a
+{
+    border: 2px transparent;
+    color:red;
+    padding: 20px;
+    font-size: 20px;
+}
+#navbar a:hover
+{
+    color:blue;
+    border-bottom:2px solid red;
+    border-top:2px solid red;
+
+}
+h2{
+    padding: 8px;
+}
+span{
+    color: red;
+}
+#content
+{
+    margin-top: 10px;
+
+}
+.row{
+    font-size: 18px;
+    align-items: center;
+    padding: 15px;
+margin-top: 20px;
+background-color: honeydew;
+}
+.col-md-8 
+{
+    margin-top: 20px; 
+}
+form
+{    text-align: center;
+    border: 2px solid orange;
+    border-radius: 14px;
+    box-shadow: 3px 3px 4px 4px orange;
+}
+img{
+    border-radius: 5px;
+}
+#bike
+{
+    margin-top: 12px;
+    padding: 15px;
+    
+}
+.product
+{
+    text-align: center;
+    border: 5px red;
+    justify-content:center;
+    padding: 15px;
+}
+.product img:hover
+{
+    transform: translatey(-20px)
+}
+button a
+{
+    font-size: 17px;
+    padding: 10px;
+    background-color: red;
+    border:1px red;
+    border-radius: 5px;
+    text-decoration:none;
+    color:white;
+}
+.product .btn a:hover
+{
+    transform: translatex(40px)
+}
+#car
+{
+margin-top: 12px;
+    padding: 15px;
+}  
+#why
+{
+    padding: 15px;
+    margin-top: 12px;
+} 
+blockquote
+{
+    font-weight: 600;
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+#about
+{
+margin-top: 12px;
+text-align: center; 
+padding: 15px;
+}
+#contact
+{
+margin: 5px;
+    text-align: center;
+    margin-top: 12px;
+    padding: 15px;
+}
+.col-lg-6
+{
+padding: 8px;;
+}
+img
+{
+    padding: 5px;
+}
+#footer
+{ 
+    padding: 15px;
+    margin-top: 12px;
+    color: white;
+    background-color: red;
+    text-align: center;
+}
